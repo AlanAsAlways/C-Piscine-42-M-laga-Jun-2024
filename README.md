@@ -11,4 +11,6 @@ Exams wont do much, try to do one or two assigments on them every week, the more
 
 In my piscine, most people who passed into the cursus did both Shell projects and up to C 03 - C 06, so, try to reach there
 
+Feel free to ignore BSQ, but do not fear failures, fear not learning. Do as much as your time allows you.
+
 Please take my notes as references, do not copy them directly, you will just be embarrased trying to explain them to other people.
