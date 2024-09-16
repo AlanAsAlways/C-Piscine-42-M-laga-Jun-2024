@@ -11,7 +11,7 @@ Every weekend, you'll face a **"Rush"** — an extremely challenging assignment 
 
 ### 📚 Exams and Assignments
 Exams might seem daunting, but:
-- **Frequency**: Aim to at least not send them empty, 1 or 2 assignments done would be enough.
+- **Pushing**: Aim to at least not send them empty, 1 or 2 assignments done would be enough.
 - **Importance**: While exams are valuable, the assignments you complete are more crucial to your learning and progression (and passing the piscine as well!).
 
 ### 📈 Project Progression
