@@ -1,4 +1,4 @@
-# C-Piscine-42-Málaga-Jun-2024
+# C Piscine | 42 Málaga | Jun-2024
 My progress during the C Piscine on 42 Málaga.
 With this, I passed straight into the cursus. I hope this helps you!
 
