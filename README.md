@@ -11,13 +11,14 @@ Every weekend, you'll face a **"Rush"** — an extremely challenging assignment 
 
 ### 📚 Exams and Assignments
 Exams might seem daunting, but:
-- **Frequency**: Aim to complete one or two assignments weekly.
+- **Frequency**: Aim to at least not send them empty, 1 or 2 assignments done would be enough.
 - **Importance**: While exams are valuable, the assignments you complete are more crucial to your learning and progression (and passing the piscine as well!).
 
 ### 📈 Project Progression
 From my experience, most successful candidates in the piscine:
 - **Completed**: Both Shell projects and up to **C 03 - C 06**.
 - **Recommendation**: Strive to reach at least this level to enhance your chances of advancing.
+- **Conduct**: Candidates on my piscine who passed to the cursus spent the whole day speaking to others, working as a team, and doing evaluations.
 
 ### 💡 Key Takeaways
 - **BSQ**: It’s okay to prioritize other projects over BSQ if needed.
