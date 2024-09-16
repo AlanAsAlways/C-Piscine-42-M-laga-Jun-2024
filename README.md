@@ -1,16 +1,29 @@
-# C Piscine | 42 Málaga | Jun-2024
-My progress during the C Piscine on 42 Málaga.
-With this, I passed straight into the cursus. I hope this helps you!
+# C Piscine | 42 Málaga | June 2024
 
+Welcome to my progress log for the C Piscine at 42 Málaga! 🎉 Passing this intensive program allowed me to move straight into the **cursus**, and I hope sharing my experience here will be useful to you.
 
-SPOILERS AHEAD: Some details to keep in mind:
+## 🚨 SPOILERS AHEAD: Important Tips and Insights
 
-Every weekend, a "Rush" is made, where you along with other 2 human beings (hopefully) will take on a VERY HARD assigment. This outclasses everything you know at that point, and the sole purpose of it its basically you trying to make it work and fail miserably with a 0 anyways. Make it your goal to learn on rushes, not taking any reference on the internet.
+### 🌟 Weekend "Rush" Challenges
+Every weekend, you'll face a **"Rush"** — an extremely challenging assignment that will push your skills to their limits. Here’s what you need to know:
+- **Objective**: Complete a daunting task with minimal guidance and **prepare for failure**.
+- **Strategy**: Focus on learning during these rushes rather than finding solutions online. It's all about the experience!
 
-Exams wont do much, try to do one or two assigments on them every week, the more the better, but in the end I dont think they really matter.
+### 📚 Exams and Assignments
+Exams might seem daunting, but:
+- **Frequency**: Aim to complete one or two assignments weekly.
+- **Importance**: While exams are valuable, the assignments you complete are more crucial to your learning and progression (and passing the piscine as well!).
 
-In my piscine, most people who passed into the cursus did both Shell projects and up to C 03 - C 06, so, try to reach there
+### 📈 Project Progression
+From my experience, most successful candidates in the piscine:
+- **Completed**: Both Shell projects and up to **C 03 - C 06**.
+- **Recommendation**: Strive to reach at least this level to enhance your chances of advancing.
 
-Feel free to ignore BSQ, but do not fear failures, fear not learning. Do as much as your time allows you.
+### 💡 Key Takeaways
+- **BSQ**: It’s okay to prioritize other projects over BSQ if needed.
+- **Learning Mindset**: Embrace failures as learning opportunities. The goal is to absorb as much knowledge as possible within your available time.
 
-Please take my notes as references, do not copy them directly, you will just be embarrased trying to explain them to other people.
+### ⚠️ A Final Note
+Feel free to use my notes as **reference material**, but **avoid copying them directly**. It's better to understand the concepts so you can explain them confidently to others.
+
+Good luck, and may your piscine journey be both challenging and rewarding! 🚀
